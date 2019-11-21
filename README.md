@@ -1,10 +1,14 @@
 # GameJs_07
  Kelompok 7 Tugas Game dengan Javascript
 
--- Judul Game --
+Judul Game
+----------
+ 
 Hot Persuit
 
--- Adaptasi --
+Adaptasi
+--------
+
 "6.Pdf"
 Building a Physics Car game with Box3D and canvas (249)
 
@@ -15,14 +19,17 @@ Bouncing (Page 615)	: Referensi untuk efek pantul saat mobil menabrak pembatas j
 Jump (632)		: Referensi untuk fitur jump (scale sprite mobil membersar) *Optional	: 
 
 
--- Definisi Game --
+Definisi Game
+-------------
+
 Genre 		: Race, Endless
 Gameplay 	: kontrol mobil untuk terus berjalan tanpa menabrak dan dapatkan point tertinggi dengan berkendara selama mungkin.
 
--- Pembagian Job --
+Pembagian Job
+-------------
 Rezaldi Yanuar 	: Game Designer, Visual Artist
 Febio		: 
 Aziza		: 
 
--- Referensi -- 
-
+Referensi
+---------
