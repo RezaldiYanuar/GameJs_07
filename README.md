@@ -25,11 +25,14 @@ Definisi Game
 Genre 		: Race, Endless
 Gameplay 	: kontrol mobil untuk terus berjalan tanpa menabrak dan dapatkan point tertinggi dengan berkendara selama mungkin.
 
-Pembagian Job
+Pembagian Job dan anggota kelompok
 -------------
+
 Rezaldi Yanuar 	: Game Designer, Visual Artist
 Febio		: 
 Aziza		: 
 
 Referensi
 ---------
+
+-soon-
