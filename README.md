@@ -30,7 +30,7 @@ Pembagian Job dan anggota kelompok
 
 Rezaldi Yanuar 	: Game Designer, Visual Artist
 Febio		: 
-Aziza		: 
+Aziza hanifa	: visual artist
 
 Referensi
 ---------
