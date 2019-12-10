@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<style>
+			body{
+				 background:#abc url("BG_HotPersuit.jpg");
+				 }
+			
+		</style>
+		<link rel="stylesheet" type="text/css" href="styles.css"/>
+</head>
+
+<body>
+<div class="navigasi">
+  <nav>
+    <ul>
+      <li><a href="web.html">Home</a></li>    
+	  <li><a href="index.html">Play</a></li>
+    </ul>
+  </nav>
+</div>
+<div class=container style="max-width:auto">
+ <center> 
+ <img class="mySlides" src="Header_4.jpg" style="width:620px" height="310px">
+	 <img class="mySlides" src="Header_2.jpg" style="width:620px" height="310px"> 
+	 <img class="mySlides" src="Header_3.jpg" style="width:620px" height="310px"> 
+	 </center>
+  
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 2500); // Change image every 2 seconds
+}
+</script>
+	<div class="container">
+			<header>
+			<center> <img src="Logo1.jpg"/> </center>
+		</header>
+		<div class="transparent">
+		<center>
+			<section>
+			<article>			
+					<h1>ABOUT</h1>				
+					<p>The Hot Persuit is web base game, create by Team7 students of STMM MMTC majoring in game technology.   <br>
+					Genre: Casual Endless <br>
+					Team : Rezaldi Yanuar, Azizah Hanifah, Febio
+					</p>
+					
+					
+					<p>this game is about how the player drives as far as possible without crashing and get points from how long he drives.</p>
+				
+		
+		<!-- <video width="600" height="400" controls> 
+				<source src="【Digimon Links】PV ver.01.mp4.MKV" type="video/mp4"> </video> 
+			</div>
+		 
+		<div class="transparent" style="align-content: center">
+		<h1>DIGIMON</h1>
+		<center><img src="agumon.png" width="320" height="320">
+		<p>AGUMON</p>
+				<br>HP : <meter align="left" min="0" max="1000" value="300">300 of 1000</meter>
+					<br>ATK : <meter align="left" min="0" max="1000" value="450">450 of 100</meter>
+					<br>DEF : <meter align="left" min="0" max="1000" value="300">300 of 1000</meter>
+					<br>MP : <meter align="left" min="0" max="1000" value="300">300 of 1000</meter>
+					<br>
+					</center>
+					<br>
+					
+		<center><img src="greymon.png" style="background-color: #FFFFFF" width="320" height="320">
+		<p>GREYMON</p>
+				<br>HP: <meter align="left" min="0" max="1000" value="500">500 of 1000</meter>
+					<br>ATK : <meter align="left" min="0" max="1000" value="620">620 of 1000</meter>
+					<br>DEF : <meter align="left" min="0" max="1000" value="500">5000 of 1000</meter>
+					<br>MP : <meter align="left" min="0" max="1000" value="600">600 of 1000</meter>
+					<br>
+		</center>
+		<br>
+		
+		<center><img src="WarGreymon.jpg">
+		<p>WARGREYMON</p>
+				<br>HP: <meter align="left" min="0" max="1000" value="700">700 of 1000</meter>
+					<br>ATK : <meter align="left" min="0" max="1000" value="900">900 of 1000</meter>
+					<br>DEF : <meter align="left" min="0" max="1000" value="850">850 of 1000</meter>
+					<br>MP : <meter align="left" min="0" max="1000" value="700">700 of 1000</meter>
+					<br>		
+		</center>
+		<br>
+		<center>
+		<input id="slider1" type="range" min="500" max="1500" step="500" />	
+		</center>		
+		<audio controls loop>
+			<source src="Digimon Linkz OST.3GP">
+				</audio controls loop> -->
+</div>
+
+</body>
+</html>
