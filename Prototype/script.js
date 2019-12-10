@@ -29,8 +29,8 @@ $(function() {
 
     var score_counter = 1;
 
-    var speed = 2;
-    var line_speed = 5;
+    var speed = 3;
+    var line_speed = 6;
 
     var move_right = false;
     var move_left = false;

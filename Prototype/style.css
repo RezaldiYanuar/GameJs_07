@@ -20,7 +20,7 @@ body {
     height: 150px;
     width: 4%;
     margin-left: 48%;
-    background-color: rgba(255,255,255,0.5);
+    background-color: rgb(255, 255, 255);
 }
 #line_1{
     top: -150px;
@@ -145,8 +145,8 @@ body {
 #restart {
     border: none;
     padding: 25px;
-    color: white;
-    background-color: #8a64ff;
+    color: #454545;
+    background-color: white;
     font-size: 30px;
     margin-top: 30%;
 }
@@ -156,8 +156,8 @@ body {
 #score_div{
     position: absolute;
     margin-top: 20%;
-    margin-left: 10%;
-    font-size: 35px;
+    margin-left: %;
+    font-size: 30px;
     background-color: white;
     color: #454545;
     padding: 10px;
