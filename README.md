@@ -28,9 +28,9 @@ Gameplay 	: kontrol mobil untuk terus berjalan tanpa menabrak dan dapatkan point
 Pembagian Job dan anggota kelompok
 -------------
 
-Rezaldi Yanuar 	: Game Designer,
- Visual Artist  : - Maleakhi Febio Rendak		: 
-                  - Aziza hanifa
+Rezaldi Yanuar 	: Game Designer & programmer,
+Maleakhi Febio Rendak		: Game Designer &  Visual Artist,
+Aziza hanifa    :  Visual Artist,
 
 Referensi
 ---------
