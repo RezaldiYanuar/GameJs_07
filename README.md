@@ -29,7 +29,7 @@ Pembagian Job dan anggota kelompok
 -------------
 
 Rezaldi Yanuar 	: Game Designer & programmer,
-Maleakhi Febio Rendak		: Game Designer &  Visual Artist,
+Maleakhi Febio Rendak		: Game Designer &  Visual Artist, 01716147139
 Aziza hanifa    :  Visual Artist,
 
 Referensi
